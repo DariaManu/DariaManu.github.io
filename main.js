@@ -7,11 +7,7 @@ const hiddenElements = document.querySelectorAll(".hidden");
 const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
         if (entry.isIntersecting) {
-            console.log("is intersecting");
             entry.target.classList.add("show");
-        } else {
-            console.log("not intersecting");
-            entry.target.classList.remove("show");
         }
     });
 })

@@ -19,14 +19,9 @@
     font-weight: normal;
 }
 
-@media(prefers-reduced-motion) {
-    .hidden {
-        transition: none;
-    }
-}
-
 .container {
     background-color: rgb(255, 255, 255, 0.85);
+    margin: 20px;
     padding: 1.25rem;
     border-radius: 10px;
     max-width: 75ch
@@ -364,7 +359,20 @@
     align-items: center;
 }
 
+#closing-section {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("img/thankyou2.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+#closing-section > h1 {
+    color: rgb(255, 255, 255);
+    font-size: 11rem;
+}
 /*.col {
     padding: 3rem;
     background: rgba(0, 0, 0, 0.1);
