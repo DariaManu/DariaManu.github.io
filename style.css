@@ -446,6 +446,18 @@
     .content {
         font-size: 0.7rem;
     }
+
+    #title-section {
+        background-image: url("img/outer-space1-tablet-view.jpg");
+    }
+
+    #filler-div-6 {
+        background-image: url("img/space-out1-tablet-view.jpg");
+    }
+
+    #filler-div-10 {
+        background-image: url("img/soul1-tablet-view.jpg");
+    }
 }
 
 @media (max-width: 400px) {
