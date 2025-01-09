@@ -161,7 +161,6 @@
     height: var(--filler-div-height);
     background-image: url("img/earth5.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-2 {
@@ -178,7 +177,6 @@
     height: var(--filler-div-height);
     background-image: url("img/empty-space1.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-3 {
@@ -195,7 +193,6 @@
     height: var(--filler-div-height);
     background-image: url("img/letter-spacing2.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-4 {
@@ -228,7 +225,6 @@
     height: var(--filler-div-height);
     background-image: url("img/personal-space1.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-5 {
@@ -245,7 +241,6 @@
     height: var(--filler-div-height);
     background-image: url("img/green-space1.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-6 {
@@ -279,7 +274,6 @@
     height: var(--filler-div-height);
     background-image: url("img/space-out1.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-7 {
@@ -296,7 +290,6 @@
     height: var(--filler-div-height);
     background-image: url("img/spacing1.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-8 {
@@ -322,7 +315,6 @@
     height: var(--filler-div-height);
     background-image: url("img/star-wars4.jpeg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-9 .container {
@@ -348,7 +340,6 @@
     height: var(--filler-div-height);
     background-image: url("img/soul1.jpg");
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #content-section-10 {
